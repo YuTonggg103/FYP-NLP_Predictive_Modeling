@@ -6,4 +6,4 @@ This project is to detect hate speech by incorporating emotion features into the
 
 Model Used: Bi-LSTM, Bi-GRU, CNN-BiLSTM, BiLSTM Multi-task model, Bi-LSTM Concept-Level Fusion Model, XGBoost.
 
-Technical Used: FastText, Word2Vec, Focal Loss, ReduceLROnPlateau, RandomSearch
+Technical Used: FastText, Word2Vec, Focal Loss, ReduceLROnPlateau, Early Stopping, RandomSearch
